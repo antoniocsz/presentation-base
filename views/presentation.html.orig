@@ -43,13 +43,26 @@
 			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
 				<section>
+<<<<<<< HEAD
+					<h1>Antonio</h1>
+					<h3>Santana</h3>
+					<p>
+						<small>Ciência da Computação<a href="#">some link</a> </small>
+=======
 					<h3>Quem sou eu</h3>
 					<p>
                                         <small>Marino Hohenheim <!-- <a href="#">some link</a> --> </small>
+>>>>>>> origin/part3
 					</p>
 				</section>
 
 				<section>
+<<<<<<< HEAD
+					<h2>Introduction</h2>
+					<p>
+						Some gibberish radom text
+                    </p>
+=======
                                   <!--	<h2>Introduction</h2>
 				         <p>
 					    Some gibrish radom text
@@ -60,6 +73,7 @@
                                           <li>Pesquisador em métodos formais no LaSiD</li>
                                           <li>Juiz de Robótica First® Lego® League</li>
                                         </ul>
+>>>>>>> origin/part3
 				</section>
 
                                 <section>
